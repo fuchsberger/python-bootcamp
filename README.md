@@ -7,17 +7,16 @@ Welcome to the Bucknell Python Bootcamp!
 ## About the workshop
 
 - We are assuming some knowledge of Python, but will still go through each topic as a review
-- As we go through examples, you should code along and practice before we break for activities
-- This workshop is hybrid, so we will have people on Zoom and in person.
-- For Zoom:
+
+- As we go through instructional parts we do not recommend copying code into your notes unless you write down additional information that is not already written in the lecture materials. All materials are shared with the students and we feel its more productive if you use your time to absorb the knowledge rather then try and multitask by writing down notes.
+
+- As we go through excercises, you should be engaged, and do your best to code solutions for the given problems. If you finish early use the time to practice more with the materials or read through the section again. This strategy will allow you to retain most of what you learn in the workshop.
+
+- This workshop is fully remote.
+  - The Zoom link for all our sessions is: [Zoom Link]()
   - You don't need to keep your camera on during the workshop
   - Please keep yourself muted unless you have something to add (it makes it easier for everyone to hear)
-  - We will do our best to repeat questions and comments from the room so that you can hear them
-  - We will monitor the chat and the raise hand notifications for questions.
-- In person:
-  - You do not need to ask to leave the room, take an unscheduled break, or use the restroom
-  - Please raise your hand for questions
-
+  - I may not see questions raised in the chat timely. If i ignore your question for a while its probably best to unmute and ask verbally.
 
 ## Schedule Fall 2024 - August 19 - 23
 
