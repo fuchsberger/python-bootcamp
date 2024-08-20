@@ -22,18 +22,16 @@ Welcome to the Bucknell Python Bootcamp!
 
 Every day from `9` - `12` an instructional session will take place where the instructor will go over various topics. Smaller activities are build in to keep students engaged. The pacing is quite fast as to ensure we can cover all important topics of CSCI 203 during that week. If you need more time to process the materials you should address it in the afternoon session on a student per student basis.
 
-Every day from `1` - `2` there is an open session that can be used to:
+Every day from `1` - `2` there can be an optional to:
 - go over topics from previous sessions again (more slowly)
 - go over topics submitted by students (at least 2 days in advance)
-- work on smaller exercies or feedback on voluntary homework
+- work on smaller exercies and projects or feedback on voluntary homework
+- To have the instructor present during that time you should let me know by the end of the morning session.
 
-|Day|Time|Topic|
+|Day|Topic|Recording|
 |---|---|---|
-|Monday|9-12|Introduction <br> Python syntax <br> Variables and data types (integers, floats, booleans)<br> Strings|
-|Tuesday|9-12|Lists<br>Expressions and Conditions<br>For loops|
-|Wednesday|9-12|Dictionaries<br>Nested and while loops<br>Functions
-|Thursday|9-12|Dictionaries<br>Files<br>Program Flow (return, break, continue)|
-|Friday|9-12|Objects and inheritance<br>Recursion<br>Try/except|
-|**Everyday**|1-2|Individual Q&A Part|
-
-
+|Monday|Introduction <br> Python syntax <br> Variables and data types (integers, floats, booleans)<br> Strings|[Link](https://bucknell.zoom.us/rec/play/pfU9xoF-uajJQXTJZx5QhhDAbF6Fedan9jQAy9Izi5wl-tYF1XsLpE2yYH3LhX-IrjrtG8A-r-X_w-20.MGLtd-UnJwBxmJ67?canPlayFromShare=true&from=my_recording&startTime=1724074654000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fbucknell.zoom.us%2Frec%2Fshare%2FxLVEx_cKTmKnicdk-xbcgR1ygmFqQsCyvumwBdzB4juEwRNjb4Gzd3ZeAwwXzrU.BBMAsG0i3wY86caG%3FstartTime%3D1724074654000%2520Passcode%3A%2520jTP94!i3)|
+|Tuesday|Lists<br>Expressions and Conditions<br>For loops||
+|Wednesday|Dictionaries<br>Nested and while loops<br>Functions||
+|Thursday|Dictionaries<br>Files<br>Program Flow (return, break, continue)||
+|Friday|Objects and inheritance<br>Recursion<br>Try/except||
