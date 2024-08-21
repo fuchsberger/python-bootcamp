@@ -23,7 +23,7 @@ Welcome to the Bucknell Python Bootcamp!
 |Day|Topic|Recording|
 |---|---|---|
 |Monday|Introduction <br> Python syntax <br> Variables and data types (integers, floats, booleans)<br> Strings|[Link](https://bucknell.zoom.us/rec/play/pfU9xoF-uajJQXTJZx5QhhDAbF6Fedan9jQAy9Izi5wl-tYF1XsLpE2yYH3LhX-IrjrtG8A-r-X_w-20.MGLtd-UnJwBxmJ67?canPlayFromShare=true&from=my_recording&startTime=1724074654000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fbucknell.zoom.us%2Frec%2Fshare%2FxLVEx_cKTmKnicdk-xbcgR1ygmFqQsCyvumwBdzB4juEwRNjb4Gzd3ZeAwwXzrU.BBMAsG0i3wY86caG%3FstartTime%3D1724074654000%2520Passcode%3A%2520jTP94!i3)|
-|Tuesday|Lists<br>Expressions and Conditions<br>For loops||
+|Tuesday|Lists<br>Expressions and Conditions<br>For loops|[Link](https://bucknell.zoom.us/rec/play/9ax2CEVugX3HlintmJ_qjrh-w8AxP00plyLAFtjXQsLtXj0uUA7LyQXU20BbhzY38N5qXUpMnnJpX5X6.SDHCxnRNd5FmCFb-?autoplay=true&startTime=1724158812000)|
 |Wednesday|Dictionaries<br>Nested and while loops<br>Functions||
 |Thursday|Dictionaries<br>Files<br>Program Flow (return, break, continue)||
 |Friday|Objects and inheritance<br>Recursion<br>Try/except||
