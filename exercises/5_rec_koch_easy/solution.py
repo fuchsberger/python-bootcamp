@@ -1,15 +1,9 @@
-import turtle
+from turtle import *
 
-# Fullscreen the canvas
-screen = turtle.Screen()
-screen.setup(1.0, 1.0)
 
-# Begin!
-t = turtle.Turtle()
 
-t.speed(0)
-
-turtle.tracer(0, 0)
+# speed(0)
+tracer(0, 0)
 
 """ The Koch Snowflake
   This fractal, also known as the Koch island or Koch Snowflake , was first
@@ -75,26 +69,30 @@ def koch (level , length ):
     # K(N) = K' ++ K' ++ K'
     kochH(level, length)
     right(120)
-
+    kochH(level, length)
+    right(120)
+    kochH(level, length)
 
 """ Helper function for the Koch Snowflake """
 def kochH (level , length ):
     # Base case
     if level == 0:
         # K'(0) = F
-        pass
+        forward(length)
 
     # Recursive case
     else :
         # K'(N) = K' - K' ++ K' - K'
-        pass
-
+        kochH(level - 1, length/3)
+        left(60)
+        kochH(level - 1, length/3)
+        right(120)
+        kochH(level - 1, length/3)
+        left(60)
+        kochH(level - 1, length/3)
 
 """ Try different levels of the snowflake."""
-koch(4,300)
+koch(5,300)
 
-
-turtle.update()
-
-screen.mainloop()
-
+update()
+input()
