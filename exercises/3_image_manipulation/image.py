@@ -1,5 +1,10 @@
 from PIL import Image
 import requests
+# if you get an error:
+# ModuleNotFoundError: No module named 'requests'
+# run this in the console: sudo pip3 install requests
+
+
 from io import BytesIO
 
 

@@ -1,4 +1,5 @@
 import image
+from random import randint
 
 def main():
   # Load an image from somewhere online
@@ -9,7 +10,7 @@ def main():
   print("Done modifying image")
   print("-------------------")
   # Save the image
-  pic.save_image("myImage-red.jpeg")
+  pic.save_image("myImage-custom.jpeg")
 
 
 # BOOST THE RED - DON'T DELETE
@@ -34,6 +35,5 @@ def boost_red(pic):
 
       # Finally, reset the pixel stored at that spot
       pic.pixels[row_index][col_index] = pixel
-
 
 main()
