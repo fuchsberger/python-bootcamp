@@ -74,24 +74,32 @@ turtle.tracer(0, 0)
 def koch (level , length ):
     # K(N) = K' ++ K' ++ K'
     kochH(level, length)
-    right(120)
-
+    t.right(120)
+    kochH(level, length)
+    t.right(120)
+    kochH(level, length)
 
 """ Helper function for the Koch Snowflake """
 def kochH (level , length ):
     # Base case
     if level == 0:
         # K'(0) = F
-        pass
+        t.forward(length)
 
     # Recursive case
     else :
         # K'(N) = K' - K' ++ K' - K'
-        pass
+        kochH (level-1 , length/3)
+        t.left(60)
+        kochH (level-1 , length/3)
+        t.right(120)
+        kochH (level-1 , length/3)
+        t.left(60)
+        kochH (level-1 , length/3)
 
 
 """ Try different levels of the snowflake."""
-koch(4,300)
+koch(5,300)
 
 
 turtle.update()
