@@ -22,10 +22,10 @@ Welcome to the Bucknell Python Bootcamp!
 
 |Day|Topic|Recording|
 |---|---|---|
-|Monday|Introduction <br> Python syntax <br> Variables and data types (integers, floats, booleans)<br> Strings|[Link](https://bucknell.zoom.us/rec/play/pfU9xoF-uajJQXTJZx5QhhDAbF6Fedan9jQAy9Izi5wl-tYF1XsLpE2yYH3LhX-IrjrtG8A-r-X_w-20.MGLtd-UnJwBxmJ67?canPlayFromShare=true&from=my_recording&startTime=1724074654000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fbucknell.zoom.us%2Frec%2Fshare%2FxLVEx_cKTmKnicdk-xbcgR1ygmFqQsCyvumwBdzB4juEwRNjb4Gzd3ZeAwwXzrU.BBMAsG0i3wY86caG%3FstartTime%3D1724074654000%2520Passcode%3A%2520jTP94!i3)|
-|Tuesday|Lists<br>Expressions and Conditions<br>For loops|[Link](https://bucknell.zoom.us/rec/play/9ax2CEVugX3HlintmJ_qjrh-w8AxP00plyLAFtjXQsLtXj0uUA7LyQXU20BbhzY38N5qXUpMnnJpX5X6.SDHCxnRNd5FmCFb-?autoplay=true&startTime=1724158812000)|
-|Wednesday|Dictionaries<br>Nested and while loops<br>Functions, Files|[Link](https://bucknell.zoom.us/rec/play/5RXjVN0Cl5TqlaZ0TQsbtfjogPbWkSymH3wl9zjDjoElO-pM-gQWj2a4qMJBj1EVscPL1_qRYVT0cBHa.msqqleAU30X6NQx2?autoplay=true&startTime=1724245259000)|
-|Thursday|Objects and inheritance, Recursion<br>Error Handling||
+|Monday|Introduction <br> Python syntax <br> Variables and data types (integers, floats, booleans)<br> Strings|[Link](https://bucknell.zoom.us/rec/share/sOBxJedPAoqC0h9IIrrzaKXF_ggGg-08xKDeSOQ9aNmYcGg6oaob-hdMaT8hTTw.SSSLz8yCre8nwzbH3)|
+|Tuesday|Lists<br>Expressions and Conditions<br>For loops|[Link](https://bucknell.zoom.us/rec/share/BbXv839mrCTuYhQHWDVkUs0x2yvNmGK8rmfdG-EkiDBaYfzeox8l9QAtdvDRjcyL.oMN69HKHFnppXZo_)|
+|Wednesday|Dictionaries<br>Nested and while loops<br>Functions, Files|[Link](https://bucknell.zoom.us/rec/share/inbx7Zy5On8T-gvkg4WZ0j113TL_3Vm-7iBZHm-H5JcJGa9JXeOsYZwtAoOhVHOp.AKbvlJsDigXpgZq5)|
+|Thursday|Objects and inheritance, Recursion<br>Error Handling|[Link](https://bucknell.zoom.us/rec/share/Rjrh91bWHbXrk6kNSDfxYIvltaJ2EpeuFAp3VDX7zmEqClSYY5HWD-5h07xfizGi.pICm_SEzx8ICKJTy)|
 |Friday|_Workshop_||
 
 Every day from `9` - `12` an instructional session will take place where the instructor will go over various topics. Smaller activities are build in to keep students engaged. The pacing is quite fast as to ensure we can cover all important topics of CSCI 203 during that week. If you need more time to process the materials you should address it in the afternoon session on a student per student basis.
@@ -36,5 +36,4 @@ Every day from `1` - `2` there is an optional session offered if students like t
 - work on smaller exercies and projects or feedback on voluntary homework
 
 To have the instructor present during that time you should let me know by the end of the morning session.
-
 
