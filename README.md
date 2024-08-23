@@ -2,7 +2,6 @@
 Welcome to the Bucknell Python Bootcamp!
 
 - [Bootcamp Signup Form](https://docs.google.com/forms/d/1xuzeE6FzHwzKjl_axRnii2LlXOQly4ihZRTyiw82Q7w)
-- Feedback submission form (will be made available on Aug 23rd)
 
 ## About the workshop
 
