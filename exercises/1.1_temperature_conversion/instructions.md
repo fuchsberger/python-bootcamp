@@ -23,7 +23,7 @@ To convert temperatures in degrees **Celsius to Fahrenheit**, multiply by `9`, d
 - The current temperature in Celsius (an  integer or float)
 
 **What you'll print (output):**
-- The current temperature in Fahrenheit
+- The current temperature in Fahrenheit rounded to 1 decimal.
 
 ### How it should work
 ```
